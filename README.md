@@ -1,6 +1,6 @@
 # Bem vindo 
 
- - Esta página foi criada para proceguir no curso do alura, além disso esse espaço será utilizado para guardar algumas das minhas informações.
+ - Esta página foi criada para proceguir no curso do alura, além disso esse espaço será utilizado para guardar algumas das minhas informações pessoais.
 
 Caso você queira entrar em contato comigo utilize o seguinte e-mail: 
 
